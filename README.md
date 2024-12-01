@@ -26,8 +26,12 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="72" height="60" alt="https://www.linkedin.com/in/joseecavalcante/"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="72" height="60" alt="eduardocavalcante131@gmail.com"  />
+    <a href="https://www.linkedin.com/in/joseecavalcante/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="72" height="60" alt="linkedin logo"  />
+  </a>
+    <a href="eduardocavalcante131@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="72" height="60" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
